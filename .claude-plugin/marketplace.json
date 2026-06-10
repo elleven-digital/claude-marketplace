@@ -1,9 +1,9 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "rickfalaschi",
-  "description": "Marketplace pessoal de plugins do Claude Code criados por Rick Falaschi — começando com ellev (lifecycle completo do Ellev, antigo Nano CMS) e expansível conforme novos plugins forem lançados.",
+  "name": "elleven-digital",
+  "description": "Marketplace de plugins do Claude Code da Elleven Digital — começando com ellev (lifecycle completo do Ellev, antigo Nano CMS) e expansível conforme novos plugins forem lançados.",
   "owner": {
-    "name": "Rick Falaschi",
+    "name": "Elleven Digital",
     "email": "henriquefalaschi@outlook.com"
   },
   "plugins": [
@@ -11,16 +11,16 @@
       "name": "ellev",
       "description": "Lifecycle completo de projetos Ellev (antigo Nano CMS) — instalação, upgrade, deploy via SSH, gerenciamento de conteúdo remoto, download de produção, e conversão de templates estáticos. Seis skills em PT/EN: ellev:install, ellev:upgrade, ellev:theme-convert, ellev:ssh-deploy, ellev:ssh-download, ellev:ssh-content.",
       "author": {
-        "name": "Rick Falaschi"
+        "name": "Elleven Digital"
       },
       "category": "development",
       "source": {
         "source": "github",
-        "repo": "rickfalaschi/ellev-plugin",
-        "commit": "3d75976f798e053973cd1b4ee5e6e1536a70a0e3",
-        "sha": "3d75976f798e053973cd1b4ee5e6e1536a70a0e3"
+        "repo": "elleven-digital/ellev-plugin",
+        "commit": "aeb0b08b699efebb07c4c3ac5f80afed4067c071",
+        "sha": "aeb0b08b699efebb07c4c3ac5f80afed4067c071"
       },
-      "homepage": "https://github.com/rickfalaschi/ellev-plugin"
+      "homepage": "https://github.com/elleven-digital/ellev-plugin"
     }
   ]
 }
