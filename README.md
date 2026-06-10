@@ -6,7 +6,7 @@ Marketplace pessoal de plugins do Claude Code mantido por Rick Falaschi.
 
 | Plugin | Descrição |
 |---|---|
-| `nano-cms` | Lifecycle completo de projetos [Nano CMS](https://github.com/rickfalaschi/nano-cms) — instalação, upgrade, deploy via SSH, conteúdo remoto, download de produção, conversão de templates. Repo: [rickfalaschi/nano-cms-plugin](https://github.com/rickfalaschi/nano-cms-plugin). |
+| `ellev` | Lifecycle completo de projetos [Ellev](https://github.com/rickfalaschi/ellev) — instalação, upgrade, deploy via SSH, conteúdo remoto, download de produção, conversão de templates. Repo: [rickfalaschi/ellev-plugin](https://github.com/rickfalaschi/ellev-plugin). |
 
 ## Como adicionar este marketplace no seu Claude Code
 
