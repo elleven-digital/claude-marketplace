@@ -1,26 +1,26 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "elleven-digital",
-  "description": "Marketplace de plugins do Claude Code da Elleven Digital — começando com ellev (lifecycle completo do Ellev, antigo Nano CMS) e expansível conforme novos plugins forem lançados.",
+  "description": "Marketplace de plugins do Claude Code da Elleven Digital — começando com plooma (lifecycle completo do Plooma, antigo Plooma CMS) e expansível conforme novos plugins forem lançados.",
   "owner": {
     "name": "Elleven Digital",
     "email": "henriquefalaschi@outlook.com"
   },
   "plugins": [
     {
-      "name": "ellev",
-      "description": "Lifecycle completo de projetos Ellev (antigo Nano CMS) — instalação, upgrade, deploy via SSH, gerenciamento de conteúdo remoto, download de produção, e conversão de templates estáticos. Seis skills em PT/EN: ellev:install, ellev:upgrade, ellev:theme-convert, ellev:ssh-deploy, ellev:ssh-download, ellev:ssh-content.",
+      "name": "plooma",
+      "description": "Lifecycle completo de projetos Plooma (antigo Plooma CMS) — instalação, upgrade, deploy via SSH, gerenciamento de conteúdo remoto, download de produção, e conversão de templates estáticos. Seis skills em PT/EN: plooma:install, plooma:upgrade, plooma:theme-convert, plooma:ssh-deploy, plooma:ssh-download, plooma:ssh-content.",
       "author": {
         "name": "Elleven Digital"
       },
       "category": "development",
       "source": {
         "source": "github",
-        "repo": "elleven-digital/ellev-plugin",
-        "commit": "cec0c3a02a96d7dabceb9047409c99bddc3b3ad5",
-        "sha": "cec0c3a02a96d7dabceb9047409c99bddc3b3ad5"
+        "repo": "elleven-digital/plooma-plugin",
+        "commit": "55575d73da4425da387b00daa3573e64c4f30e95",
+        "sha": "55575d73da4425da387b00daa3573e64c4f30e95"
       },
-      "homepage": "https://github.com/elleven-digital/ellev-plugin"
+      "homepage": "https://github.com/elleven-digital/plooma-plugin"
     }
   ]
 }

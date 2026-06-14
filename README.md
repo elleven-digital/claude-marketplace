@@ -6,7 +6,7 @@ Marketplace de plugins do Claude Code mantido pela [Elleven Digital](https://git
 
 | Plugin | Descrição |
 |---|---|
-| `ellev` | Lifecycle completo de projetos [Ellev](https://github.com/elleven-digital/ellev) (antigo Nano CMS) — instalação, upgrade, deploy via SSH, conteúdo remoto, download de produção, conversão de templates. Repo: [elleven-digital/ellev-plugin](https://github.com/elleven-digital/ellev-plugin). |
+| `plooma` | Lifecycle completo de projetos [Plooma](https://github.com/elleven-digital/plooma) (antigo Nano CMS) — instalação, upgrade, deploy via SSH, conteúdo remoto, download de produção, conversão de templates. Repo: [elleven-digital/plooma-plugin](https://github.com/elleven-digital/plooma-plugin). |
 
 ## Como adicionar este marketplace no seu Claude Code
 
