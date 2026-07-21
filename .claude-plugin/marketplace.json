@@ -1,26 +1,26 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "elleven-digital",
-  "description": "Marketplace de plugins do Claude Code da Elleven Digital — começando com plooma (lifecycle completo do Plooma, antigo Plooma CMS) e expansível conforme novos plugins forem lançados.",
+  "description": "Marketplace de plugins do Claude Code da Elleven Digital — começando com velk (lifecycle completo do Velk) e expansível conforme novos plugins forem lançados.",
   "owner": {
     "name": "Elleven Digital",
     "email": "henriquefalaschi@outlook.com"
   },
   "plugins": [
     {
-      "name": "plooma",
-      "description": "Lifecycle completo de projetos Plooma (antigo Plooma CMS) — instalação, upgrade, deploy via SSH, gerenciamento de conteúdo remoto, download de produção, e conversão de templates estáticos. Seis skills em PT/EN: plooma:install, plooma:upgrade, plooma:theme-convert, plooma:ssh-deploy, plooma:ssh-download, plooma:ssh-content.",
+      "name": "velk",
+      "description": "Lifecycle completo de projetos Velk — instalação, upgrade, deploy via SSH, gerenciamento de conteúdo remoto, download de produção, e conversão de templates estáticos. Seis skills em PT/EN: velk:install, velk:upgrade, velk:theme-convert, velk:ssh-deploy, velk:ssh-download, velk:ssh-content.",
       "author": {
         "name": "Elleven Digital"
       },
       "category": "development",
       "source": {
         "source": "github",
-        "repo": "elleven-digital/plooma-plugin",
-        "commit": "12bef7e6a9bf88eecd303b3a424832e6bc0fc65f",
-        "sha": "12bef7e6a9bf88eecd303b3a424832e6bc0fc65f"
+        "repo": "elleven-digital/velk-plugin",
+        "commit": "76c8a6d63fb51f5a757c4d7aee58b9dfb6b6fdc9",
+        "sha": "76c8a6d63fb51f5a757c4d7aee58b9dfb6b6fdc9"
       },
-      "homepage": "https://github.com/elleven-digital/plooma-plugin"
+      "homepage": "https://github.com/elleven-digital/velk-plugin"
     }
   ]
 }
